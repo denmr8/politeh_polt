@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.env
+# Логи и отчеты (если появятся)
+*.log
+tests_report.html
+portal_nupp_data.py
